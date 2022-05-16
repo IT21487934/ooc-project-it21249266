@@ -6,7 +6,7 @@ using namespace std;
 
 Flight::Flight()
 {
-	 flightID=0;
+     flightID=0;
      deptTime="";
      deptDate="DD/MM/YYYY";
      deptLocation="";
